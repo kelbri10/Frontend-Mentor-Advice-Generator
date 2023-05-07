@@ -20,5 +20,6 @@ const getAdvice = async() => {
 
 }
 
+getAdvice(); 
 submitBtn.addEventListener('click', getAdvice); 
 
