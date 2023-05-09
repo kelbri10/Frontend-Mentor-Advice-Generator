@@ -5,7 +5,7 @@
 - [The Challenge](#the_challenge)
 - [Process](#process)
 - [Read More](#read_more)
--
+
 ## The Challenge 
 
 Build out the design provided by Frontend Mentor using the Advice Slip API. Users should be able to: 
